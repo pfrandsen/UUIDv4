@@ -1,0 +1,21 @@
+{
+  "name": "uuid-library-builder",
+  "version": "0.3.0",
+  "description": "Example of bundling Angular libraries",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfrandsen/UUIDv4.git"
+  },
+  "author": "Peter Frandsen",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular/core": "4.0.2",
+    "@angular/compiler": "4.0.2",
+    "@angular/compiler-cli": "4.0.2",
+    "npm-check-updates": "2.10.5",
+    "rollup": "0.41.6",
+    "rxjs": "5.3.0",
+    "typescript": "2.2.2",
+    "zone.js": "0.8.5"
+  }
+}
