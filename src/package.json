@@ -2,7 +2,7 @@
   "name": "uuid-version4",
   "description": "Library for generating UUID (universally unique identifier) version 4 strings",
   "author": "Peter Frandsen <pfrandsen@gmail.com>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "repository": {
     "type": "git",
