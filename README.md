@@ -14,6 +14,15 @@ Build the library by running
 
 The output is placed in dist folder.
 
+## Publish to npmjs.org
+
+To upload new version to npm registry update version number in src/package.json and run the following
+commands:
+
+    ./build.sh
+    cd dist
+    npm publish ./
+
 ## Check npm tools versions
 
 To check the versions on the tools in package.json run
