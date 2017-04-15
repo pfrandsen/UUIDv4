@@ -23,6 +23,11 @@ commands:
     cd dist
     npm publish ./
 
+or
+
+    ./build.sh
+    npm publish ./dist/
+
 ## Check npm tools versions
 
 To check the versions on the tools in package.json run
